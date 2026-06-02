@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="E-Birth.Api/E-Birth.Api.csproj" />
+  <Project Path="E-Birth.Application/E-Birth.Application.csproj" />
+  <Project Path="E-Birth.Domain/E-Birth.Domain.csproj" />
+  <Project Path="E-Birth.Infrastructure/E-Birth.Infrastructure.csproj" />
+</Solution>
